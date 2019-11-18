@@ -1,0 +1,20 @@
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+a {
+	color: #191970;
+	text-decoration: none;
+}
+body{
+	background-image: url("grey.jpg");
+	font-family: "Ariel", Helvetica, sans-serif;
+	font-size: 14px;	
+	color: black;
+}
+h1 {
+	color: #191970;
+	font-size: 36px;
+	font-family: "Georgia", Helvetica, sans-serif;
+}

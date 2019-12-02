@@ -1,4 +1,3 @@
-PShape background, face, head, nose, eye1, eye2, mouth, tooth1, tooth2, bowtie1, bowtie2, bowtie3, hat1, hat2;
 
 void setup() {
   //Body, eyes, nose, mouth, arms, hat, sky, snow, sun
